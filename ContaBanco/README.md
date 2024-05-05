@@ -1,18 +1,18 @@
-## Getting Started
+# Desafio do Projeto Java Sintaxe
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Simulação de uma Conta Bancária através do Terminal/Console
 
-## Folder Structure
+Neste desafio, tive a oportunidade de aprimorar meus conhecimentos em sintaxe Java.
 
-The workspace contains two folders by default, where:
+O que foi aprimorado:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Criação de classes;
+Criação de métodos;
+Definição de atributos e os tipos primitivos que devem ser utilizados;
+Melhor compreensão da classe Scanner.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
