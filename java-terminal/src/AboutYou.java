@@ -23,6 +23,8 @@ public class AboutYou {
         System.out.println("Ola, me chamo " + nome + " " + sobrenome);
         System.out.println("Tenho " + idade + " anos ");
         System.out.println("Minha altura é " + altura + "cm ");
+
+        scanner.close(); //Fechando o scanner após o a leitura dos dados. Uma boa prática para liberar recursos. 
         
         
     }
