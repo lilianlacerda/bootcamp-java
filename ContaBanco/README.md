@@ -1,3 +1,4 @@
+
 # Desafio do Projeto Java Sintaxe
 
 ### Simulação de uma Conta Bancária através do Terminal/Console
@@ -6,10 +7,10 @@ Neste desafio, tive a oportunidade de aprimorar meus conhecimentos em sintaxe Ja
 
 O que foi aprimorado:
 
-Criação de classes;
-Criação de métodos;
-Definição de atributos e os tipos primitivos que devem ser utilizados;
-Melhor compreensão da classe Scanner.
+- Criação de classes;
+- Criação de métodos;
+- Definição de atributos e os tipos primitivos que devem ser utilizados;
+- Melhor compreensão da classe Scanner.
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
