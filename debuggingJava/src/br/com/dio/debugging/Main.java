@@ -15,7 +15,8 @@ public class Main {
 
     static void b(){
         System.out.println("Início do método b.");
-        for(int i = 0; i <= 4; i++) System.out.println(i);
+        for(int i = 0; i <= 4; i++)
+            System.out.println(i);
         c();
         System.out.println("Finalização do método b");
     }
