@@ -1,17 +1,19 @@
 package lanchonete.atendimento.cozinha;
 
 public class Almoxarife {
-	public void controlarEntrada() {
+	private void controlarEntrada() {
 		System.out.println("CONTROLANDO A ENTRADA DOS ITENS");
 	}
-	public void controlarSaida() {
+	private void controlarSaida() {
 		System.out.println("CONTROLANDO A SAIDA DOS ITENS");
 	}
-	public void entregarIngredientes() {
+	//Quando possui apenas o void, indica a ação é default (apenas as classes do mesmo pacote podem visualizar essa ação).
+	void entregarIngredientes() {
 		System.out.println("ENTREGANDO INGREDIENTES");
-		//...?
+		//Controlar saída está privado, mas aqui quando formos entregar os ingredientes, podemos chamar esse método. 
+		controlarSaida();
 	}
-	public void trocarGas() {
+	void trocarGas() {
 		System.out.println("ALMOXARIFE TROCANDO O GÁS");
 	}
 }
