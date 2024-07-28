@@ -1,4 +1,4 @@
-package me.dio.projeto_bootcamp_java;
+package me.dio;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
